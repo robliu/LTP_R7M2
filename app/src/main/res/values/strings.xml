@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">G-Sight LTP</string>
+    <string name="activity_time_limit">Activity Time Limit (Min)</string>
+    <string name="BeginShooting">Begin Shooting</string>
+    <string name="button">Button</string>
+    <string name="Calibrating">Calibrating</string>
+    <string name="cancel">CANCEL</string>
+    <string name="continueword">CONTINUE</string>
+    <string name="delay_between_sessions">Reload Time (Sec)</string>
+    <string name="Mute">Mute</string>
+    <string name="makeready_length">Make Ready Time (Sec)</string>
+    <string name="nodesc">null</string>
+    <string name="number_of_sessions">Number of Sessions</string>
+    <string name="number_of_shots">Shots per Session</string>
+    <string name="ok">OK</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="ready">Ready</string>
+    <string name="reload">Reload</string>
+    <string name="session_time_limit">Session Time Limit (Sec)</string>
+    <string name="settings">SETTINGS</string>
+    <string name="standby">Standby</string>
+    <string name="Textview">Text 123</string>
+    <string name="train">TRAIN</string>
+    <string name="TrainAgain">TRAIN AGAIN</string>
+    <string name="FixedTimerDescriptions">(Use Reload Time as Fixed Timer.)</string>
+    <string name="RandomTimerDescriptions">(Random Timer starts after Reload Time.)</string>
+    <string name="TryAgain">TRY AGAIN</string>
+    <string name="WordSTART">START</string>
+    <string name="WordSTOP">STOP</string>
+    <string name="WordWAIT">WAIT</string>
+    <string name="zoomMessage">Zoom in on target; press Start</string>
+    <string name="Zminus">Z -</string>
+    <string name="Zplus">Z +</string>
+
+
+    <string name="CameraStartFailureWarning">"Hardware Check Failure:\n\n \nCamera Control Failed:\n\n Oops, Camera Control failed unexpectedly. Please restart the App and try again. If the condition persists, please power down the device, clear the memory cache and try again.\n" </string>
+
+    <string name="DisplayFailureWarning">"Hardware Check Failure:\n\n \nScreen Control Failed:\n\n Oops, Display Control failed unexpectedly. Please restart the App and try again. If the condition persists, please power down the device, clear the memory cache and try again.\n" </string>
+
+</resources>
